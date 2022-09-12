@@ -76,7 +76,9 @@ export default {
       this.taskCompleted.forEach((element) => {
         listUrl.push(axios.delete(`http://localhost:3000/todos/${element.id}`));
       });
-      axios.all(listUrl).then(() => this.$store.dispatch("getAllItems"));
+      axios.all(listUrl).then(() => this.$store.dispatch("getAllItems")).catch(()=>{
+        console.log('ERROR de servicio');
+      });
     },
   },
 };
