@@ -3,7 +3,7 @@
 Aplicación de ejemplo de tareas realizadas y pendientes, donde podremos crear nuevas tareas, marcarlas como hechas, eliminarlas y editarlas.
 
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/einyelct/testTotalApp/blob/main/src/assets/CapturaTodo.JPG)
 # Funcionamiento
 **Ejecuciones previas.**
 >Ejecutar el siguiente comando
