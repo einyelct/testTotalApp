@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "label": "Tarea #1",
+      "state": 1
+    },
+    {
+      "id": 2,
+      "label": "Tarea #2",
+      "state": 2
+    },
+    {
+      "id": 3,
+      "label": "Tarea #3",
+      "state": 1
+    }
+  ]
+}
